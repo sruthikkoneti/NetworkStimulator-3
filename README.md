@@ -28,3 +28,4 @@ Note:This was the Computer Networks Course assignment that we were given
 2) Place the app.cc in a the `scratch` folder in the ns3-dev folder ( where ns-3 was installed)
 3) Navigate to `scratch` folder in the terminal by running `cd ns3-dev/scratch`
 4) Run `./waf --run app` 
+[Solution to the Problem Statement]([https://linktodocumentation](https://docs.google.com/document/d/1y3Og03yxvdz6aXIJuOGYNQszdx2PxamN7qRQZiEcIwI/edit?usp=sharing)https://docs.google.com/document/d/1y3Og03yxvdz6aXIJuOGYNQszdx2PxamN7qRQZiEcIwI/edit?usp=sharing)
